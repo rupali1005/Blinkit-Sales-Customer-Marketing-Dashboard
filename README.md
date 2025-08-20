@@ -14,7 +14,8 @@ The goal was to design an interactive dashboard that not only tracks KPIs but al
 
 By building this project, I aimed to demonstrate how data visualization and DAX calculations can transform raw business data into meaningful insights that support decision-making. 
 
-<img width="1660" height="960" alt="blinkit_dashboard" src="https://github.com/user-attachments/assets/d430ae32-bf95-4e54-a50e-c980349be453" />
+<img width="1660" height="960" alt="blinkit_dashboard" src="https://github.com/user-attachments/assets/d7cd19ee-946a-44ac-a104-5501940e7562" />
+
 
 
 
@@ -67,7 +68,8 @@ This project simulates how a company like Blinkit could benefit from data analyt
 
   
 
-   - <img width="1660" height="960" alt="blinkit_Sales_Analytics" src="https://github.com/user-attachments/assets/33754d18-4d0e-464d-a3b0-b421fed58398" />
+   - <img width="1660" height="960" alt="blinkit_Sales_Analytics" src="https://github.com/user-attachments/assets/9d5cfe47-7743-46b2-a011-ca749762ae4c" />
+
 
   
 
@@ -84,7 +86,8 @@ This project simulates how a company like Blinkit could benefit from data analyt
 
   
 
-   - <img width="1660" height="960" alt="blinkit_Customer_Analytics" src="https://github.com/user-attachments/assets/ad614602-3cf4-41a2-800c-cada84b4c513" />
+   - <img width="1660" height="960" alt="blinkit_Customer_Analytics" src="https://github.com/user-attachments/assets/7066ebc0-b40b-41aa-a4b5-7de29e1fb1b2" />
+
 
 
 
@@ -102,7 +105,8 @@ This project simulates how a company like Blinkit could benefit from data analyt
 
   
 
-   - <img width="1660" height="960" alt="blinkit_Marketing_Analytics" src="https://github.com/user-attachments/assets/878155c2-26e4-4203-8376-b2e8b42286c7" />
+   - <img width="1660" height="960" alt="blinkit_Marketing_Analytics" src="https://github.com/user-attachments/assets/f05be4df-844f-42e6-b75c-95ab80de008a" />
+
 
 
 
@@ -137,7 +141,7 @@ This project simulates how a company like Blinkit could benefit from data analyt
 
   
 
-- <img width="1660" height="960" alt="blinkit_Key_Insights_Summary" src="https://github.com/user-attachments/assets/52584ef0-d827-4b45-b80a-f18f754ff8e8" />
+- <img width="1660" height="960" alt="blinkit_Key_Insights_Summary" src="https://github.com/user-attachments/assets/0ef8c11f-bfeb-402b-90fb-91554dd60ebc" />
 
 
 
